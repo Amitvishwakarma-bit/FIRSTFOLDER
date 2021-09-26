@@ -4,6 +4,6 @@ using namespace std;
 int main(){
     int a=5;
     int b=6;    
-    cout<<"addition of the two numbers are : "<<a+b<<endl;
+    cout<<"addition is : "<<a+b<<endl;
     return 0;
 }
